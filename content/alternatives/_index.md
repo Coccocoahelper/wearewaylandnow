@@ -10,6 +10,8 @@ but also to see which 1:1 replacements there are for apps that don't work well w
 Just press **Ctrl**+**F** and search for a tool to see alternatives.
 
 * rofi -> [wofi][wofi]
+* openbox -> [labwc][labwc]
 
 <!-- Link references (to avoid redundancy) -->
 [wofi]: https://hg.sr.ht/~scoopta/wofi
+[labwc]: https://labwc.github.io
